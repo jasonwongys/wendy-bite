@@ -1,0 +1,45 @@
+body {
+	background-color: #565254;
+	text-align: center;
+	color: white;
+	border-style: solid;
+	border-color: #7A7D7D;
+	border-width: 10px;
+	width: 50%;
+	margin: auto;
+	padding: 20px;
+}
+
+
+
+h1 {
+	font-style: italic;
+}
+
+p {
+	text-align: left;
+}
+
+
+img {
+	float: right; 
+	border-style: solid;
+	border-color: #7A7D7D;
+	padding: 5px;
+}
+
+a:link {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+a.active {
+	color: none;
+}
